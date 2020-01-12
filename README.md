@@ -16,6 +16,6 @@
 
 ## Example usage
 
-使用：actions/js-echo-action@v1
+使用：actions/js-echo-action@master
 及：
   echo-what: 'Tom'
